@@ -1,7 +1,7 @@
 ---
 title: "Efficient Load balancing to serve Heterogeneous Requests in Clustered Systems using Kubernetes"
 collection: publications
-permalink: /publication/"final draft"
+#permalink: /publication/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-01-10
 venue: '2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC)'
