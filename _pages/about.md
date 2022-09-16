@@ -21,6 +21,6 @@ I am also interested in scheduling problems in the distributed systems. To that 
 
 Personal Trivia
 ======
-I am an avid Sebastian Vettel(and by consequence Formual 1) fan. If you are interested in a game of tennis (or generally any sport - I can learn :P), feel free to hit me up.
+I am a Sebastian Vettel fan (and by consequence a Formula 1 fan). I am always up for "race watch meetups". If you are interested in a game of tennis, feel free to hit me up.
 
 I am always available for discussions on problems in network analysis or even if you just want to drop a hi! 
