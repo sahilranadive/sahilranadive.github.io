@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Lead Teaching Assistant for Neural Networks and Fuzzy Logic"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Birla Institute of Technology and Science, Pilani"
+date: 2019-08-01
+location: "Pilani, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+1. Placed in the 95th percentile in the Neural Networks course resulting in the appointment as Lead Teaching Assistant
 
-Heading 1
-======
+2. Coordinated with a group of 10 teaching assistants to organize assignments, projects, workshops and quizzes
 
-Heading 2
-======
-
-Heading 3
-======
+3. Instructed workshops on Python, Keras and TensorFlow and mentored student groups in their term projects

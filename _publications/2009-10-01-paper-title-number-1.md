@@ -10,5 +10,3 @@ citation: 'Dua, Amit & Ranadive, Sahil & Agarwal, Aditi & Kumar, Neeraj. (2020).
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/document/9045136)
-
-Recommended citation: Dua, Amit & Ranadive, Sahil & Agarwal, Aditi & Kumar, Neeraj. (2020). Efficient Load balancing to serve Heterogeneous Requests in Clustered Systems using Kubernetes. 1-2. 10.1109/CCNC46108.2020.9045136.
