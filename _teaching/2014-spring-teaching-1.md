@@ -8,6 +8,8 @@ date: 2019-08-01
 location: "Pilani, India"
 ---
 
-1. Placed in the 95th percentile in the Neural Networks course resulting in the appointment as Lead Teaching Assistant
-2. Coordinated with a group of 10 teaching assistants to organize assignments, projects, workshops and quizzes
-3. Instructed workshops on Python, Keras and TensorFlow and mentored student groups in their term projects
+Placed in the 95th percentile in the Neural Networks course resulting in the appointment as Lead Teaching Assistant
+
+Coordinated with a group of 10 teaching assistants to organize assignments, projects, workshops and quizzes
+
+Instructed workshops on Python, Keras and TensorFlow and mentored student groups in their term projects
