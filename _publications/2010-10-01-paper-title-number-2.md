@@ -17,7 +17,7 @@ aim to identify the advantages and challenges that the various
 implementations of blockchain in smart grids present to the users
 and the energy market.'
 date: 2017-08-01
-# venue: 'Journal 1'
+venue: ' '
 paperurl: 'http://sahilranadive.github.io/files/BlockChain.pdf'
 citation: 'Santosh Desai, Amit Dua, Ranadive Sahil, Neeraj Kumar, Ashok Kumar Das, Joel J. P. C. Rodrigues. A systematic survey of blockchain application in Smart Grid.'
 ---
